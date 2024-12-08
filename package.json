@@ -8,9 +8,7 @@
     "docs:preview": "vitepress preview docs"
   },
   "dependencies": {
-    "highlight.js": "^11.10.0",
     "markdown-it": "^14.1.0",
-    "markdown-it-checkbox": "^1.1.0",
-    "shiki": "^1.23.1"
+    "markdown-it-checkbox": "^1.1.0"
   }
 }
